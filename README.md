@@ -52,4 +52,3 @@ This research project contributes to the field of unsupervised text clustering b
 
 ---
 
-This README file outlines the objectives, methodology, findings, and practical implications of the research, offering a comprehensive guide to the project’s process and outcomes.
